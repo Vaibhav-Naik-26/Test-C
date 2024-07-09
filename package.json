@@ -1,0 +1,16 @@
+{
+  "name": "test-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=.env index"
+  },
+  "keywords": [],
+  "author": "Vaibhav Naik <vaibhavnaik2004@gmail.com> (https://vaibhav-naik-26.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
