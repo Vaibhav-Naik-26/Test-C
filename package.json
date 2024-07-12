@@ -9,8 +9,9 @@
   },
   "keywords": [],
   "author": "Vaibhav Naik <vaibhavnaik2004@gmail.com> (https://vaibhav-naik-26.github.io/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2"
   }
 }
